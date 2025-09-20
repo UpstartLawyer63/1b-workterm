@@ -10,3 +10,8 @@ Whatever comes to your mind when thinking of that laconic, hard-edged, battle to
 ***
 As I go about my life I think of the many small labors that go unnoticed — the late hours, the edits no one comments on, the problems quietly solved. This repository is an attempt to gather those labors and give them a place to be seen. Like Emile, these efforts are often at the tip of the spear: messy, necessary, and rarely applauded. Here I will collect notes, worked problems, sketches, and PDFs — the quiet work that chips away at mastery. Read it as I do: as evidence that steady, stubborn effort matters; as a record of things done on principle; and as a small, stubborn act of defiance against the idea that unseen work disappears.
 I’m Ready. How ’bout You?
+
+PS: Since a lot of the work here was study based(solving a problem, learning how to use some concept, etc), I am not going to upload everything I do here—please check out my notion database: https://www.notion.so/HardWare-and-such-2749a88925e6806b9deffbb50c8d7255?source=copy_link
+
+
+
